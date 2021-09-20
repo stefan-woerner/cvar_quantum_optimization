@@ -1,0 +1,11 @@
+
+qiskit==0.29.0
+qiskit-aer==0.8.2
+qiskit-finance==0.2.0
+qiskit-ignis==0.6.0
+qiskit-nature==0.2.1
+qiskit-optimization==0.2.2
+qiskit-terra==0.18.1
+scikit-learn==0.24.2
+numpy==1.21.2
+matplotlib==3.4.3
